@@ -1,0 +1,28 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 30px;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f7f9fc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.nav-buttons {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 16px;
+  font-size: 16px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
